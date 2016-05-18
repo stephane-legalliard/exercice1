@@ -12,16 +12,17 @@ body {
 	margin-top: 30px;
 	margin-left: auto;
 	margin-right: auto;
-	display: block;
+	display : block;
+	vertical-align: middle;
 }
 p {
 	color: white;
 	text-align: left;
-	position: absolute;
+	vertical-align: middle;
 }
 #photo {
 	float:left;
-	display: inline-block;
+	margin:auto;
 }
 #container {
 	float: left;
